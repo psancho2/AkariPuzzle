@@ -1,0 +1,11 @@
+﻿  celda.cpp
+C:\Users\user\Dropbox\ucm\docencia\22_23\FP2\Proyecto\version3_1_liteUCM\celda.h(17,47): warning C4091: 'typedef ': se ha omitido a la izquierda de 'celda::tTipo' cuando no hay ninguna variable declarada
+  main.cpp
+C:\Users\user\Dropbox\ucm\docencia\22_23\FP2\Proyecto\version3_1_liteUCM\celda.h(17,47): warning C4091: 'typedef ': se ha omitido a la izquierda de 'celda::tTipo' cuando no hay ninguna variable declarada
+  reglasJuego.cpp
+C:\Users\user\Dropbox\ucm\docencia\22_23\FP2\Proyecto\version3_1_liteUCM\celda.h(17,47): warning C4091: 'typedef ': se ha omitido a la izquierda de 'celda::tTipo' cuando no hay ninguna variable declarada
+C:\Users\user\Dropbox\ucm\docencia\22_23\FP2\Proyecto\version3_1_liteUCM\reglasJuego.cpp(13,46): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tDir' cuando no hay ninguna variable declarada
+  tablero.cpp
+C:\Users\user\Dropbox\ucm\docencia\22_23\FP2\Proyecto\version3_1_liteUCM\celda.h(17,47): warning C4091: 'typedef ': se ha omitido a la izquierda de 'celda::tTipo' cuando no hay ninguna variable declarada
+  Generando código...
+  LightUp.vcxproj -> C:\Users\user\source\repos\_2023 FP2\Proyecto\LightUp\Debug\LightUp.exe
