@@ -5,6 +5,7 @@
 #include "colors.h"
 #include <iomanip>
 
+//cambios en directorio 2
 //version modificada por PST para pruebas
 const int HUECOS = 2; // huecos a dejar en el formato de las celdas.
 
