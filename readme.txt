@@ -1,2 +1,2 @@
 AKari Puzzle en consola.
-¡Diviértete!!
+¡Diviértete!!Hala! a conflicturar...
